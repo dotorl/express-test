@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/bundle.js",
-    "static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js": "/static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js",
+    "main.css": "/static/css/main.0f0579c7.css",
+    "main.js": "/static/js/main.99103398.js",
+    "static/js/787.f68a6c7f.chunk.js": "/static/js/787.f68a6c7f.chunk.js",
     "../public/lib/video.mtsimd.wasm": "/../public/lib/video.mtsimd.wasm",
     "../public/lib/video.simd.wasm": "/../public/lib/video.simd.wasm",
     "../public/lib/video.mt.wasm": "/../public/lib/video.mt.wasm",
@@ -29,7 +30,6 @@
     "static/media/icon-phone.svg": "/static/media/icon-phone.62a2a108a134207b119588052f1cb8e0.svg",
     "static/media/icon-remote-control.svg": "/static/media/icon-remote-control.46ef13537879e9f75120bc64467413cb.svg",
     "static/media/icon-recording-animated.svg": "/static/media/icon-recording-animated.21cb21c9905b412b4bda9760294c333e.svg",
-    "index.html": "/index.html",
     "static/media/icon-meeting.svg": "/static/media/icon-meeting.cf2c788fae1757d63ee799f24fbc0faa.svg",
     "static/media/icon-spotlight.svg": "/static/media/icon-spotlight.86e4674e7d3a5a3afe3737602fdbbc43.svg",
     "static/media/icon-recording-animated-hovered.svg": "/static/media/icon-recording-animated-hovered.1f46ef58b9f4ef6735d8946caad3a2f4.svg",
@@ -41,6 +41,7 @@
     "static/media/icon-start.svg": "/static/media/icon-start.3d9ed4be83f5ec30d35c57e89600454e.svg",
     "static/media/icon-lt.svg": "/static/media/icon-lt.15647059bd94dc4d659cbca8dd33f972.svg",
     "static/media/icon-resume.svg": "/static/media/icon-resume.889789d26a0c712d0672d3424d6a1735.svg",
+    "index.html": "/index.html",
     "static/media/icon-recording-pause.svg": "/static/media/icon-recording-pause.b7e2b06334e9e430b471f1758c006e31.svg",
     "static/media/icon-recording-pause-hovered.svg": "/static/media/icon-recording-pause-hovered.47dab73a7a84979a615e661fe8385f2e.svg",
     "static/media/icon-recording-default.svg": "/static/media/icon-recording-default.9db37aaa38638b29592eab23dcb30355.svg",
@@ -50,12 +51,12 @@
     "static/media/icon-recording-resume-hovered.svg": "/static/media/icon-recording-resume-hovered.09c6f19527ce4b0df8492e331b03ddc2.svg",
     "static/media/icon-recording-stop.svg": "/static/media/icon-recording-stop.d4c53291201f7dc2f84c4c9a2fe63589.svg",
     "static/media/icon-recording-stop-hovered.svg": "/static/media/icon-recording-stop-hovered.e9d3912cdb2fd0c6c118ae19673b87eb.svg",
-    "bundle.js.map": "/static/js/bundle.js.map",
-    "main.hot-update.js.map": "/main.8d62fff343fb385fd45f.hot-update.js.map",
-    "node_modules_web-vitals_dist_web-vitals_js.chunk.js.map": "/static/js/node_modules_web-vitals_dist_web-vitals_js.chunk.js.map"
+    "main.0f0579c7.css.map": "/static/css/main.0f0579c7.css.map",
+    "main.99103398.js.map": "/static/js/main.99103398.js.map",
+    "787.f68a6c7f.chunk.js.map": "/static/js/787.f68a6c7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/bundle.js",
-    "main.8d62fff343fb385fd45f.hot-update.js"
+    "static/css/main.0f0579c7.css",
+    "static/js/main.99103398.js"
   ]
 }
