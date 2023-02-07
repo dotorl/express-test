@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const path = require('path');
-const port = 4000;
+const port = 3000;
 
 app.use(express.static(path.join(__dirname, 'build')));
 
@@ -10,5 +10,5 @@ app.get('/*', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log('Example app listening on port 4000!');
+  console.log('Example app listening on port 3000!');
 });
