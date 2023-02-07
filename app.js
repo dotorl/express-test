@@ -3,6 +3,12 @@ const app = express();
 const path = require('path');
 const port = 3000;
 
+app.use((req, res, next) => {
+  res.header('Cross-Origin-Embedder-Policy', 'credentialless');
+  res.header('Cross-Origin-Opener-Policy', 'same-origin');
+  next();
+});
+
 app.use(express.static(path.join(__dirname, 'build')));
 
 app.get('/*', (req, res) => {
